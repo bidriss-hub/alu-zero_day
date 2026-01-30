@@ -1,1 +1,1 @@
-This project is about learning Git
+This is my git folder
